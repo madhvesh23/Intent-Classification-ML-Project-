@@ -1,0 +1,12 @@
+# Ignore data files
+data/*
+!data/.gitkeep
+
+# Ignore common junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS-specific
+.DS_Store
+Thumbs.db

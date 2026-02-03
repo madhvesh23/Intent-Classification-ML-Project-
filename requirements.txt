@@ -1,0 +1,10 @@
+pandas
+numpy
+torch
+torchvision
+torchaudio
+scikit-learn
+matplotlib
+networkx
+node2vec
+torchmetrics
